@@ -135,6 +135,3 @@ TMDB_API_KEY = 'd5601cac98ebb129144ff2b31d5133c4'
 
 This project uses the TMDB 5000 Movie Dataset from Kaggle.
 
-## Author
-
-Built following the Product Requirements Document for a movie recommendation system addressing the cold start problem.
