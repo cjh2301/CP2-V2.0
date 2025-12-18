@@ -1,0 +1,4 @@
+scenario,scenario_name,precision_at_5,ndcg_at_5,diversity,successful_cases,total_cases,success_rate
+A,Genre Only (Baseline),0.036000000000000004,0.02537059068567522,0.06465913425839818,50,50,1.0
+B,Genre + Movie,0.524,0.45853136116058524,0.30120620966342104,50,50,1.0
+C,Enhanced (w/ Actor/Director),0.528,0.4584370537261177,0.30084703910521626,50,50,1.0
